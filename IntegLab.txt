@@ -1,0 +1,5 @@
+http://www.ics.uci.edu/~stasio/winter06/lab3/Sol/sua/Payroll.java
+http://forum.codecall.net/topic/70033-very-simple-payroll-system-in-java-dos-base/
+http://simpledeveloper.com/interface-in-java/
+http://cs.nyu.edu/~yap/classes/visual/03s/lect/l7/ //java swing
+http://www.rappler.com/business/53216-income-tax-calculator // taxes
