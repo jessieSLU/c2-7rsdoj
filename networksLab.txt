@@ -1,4 +1,1 @@
-http://blog.wensheng.org/2009/07/set-up-tinydns-on-fedora.html
-https://www.server-world.info/en/note?os=Fedora_25&p=dns
-Chapter 16 	pages 404-440(377-413)
-Activity	pages 427-437(400-404)
+https://httpd.apache.org/docs/trunk/vhosts/examples.html
